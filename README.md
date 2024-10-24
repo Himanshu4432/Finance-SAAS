@@ -1,7 +1,7 @@
 
 # Finance SaaS Platform
 
-This project was made with the “Code With Antonio” tutorial.
+
 
 Welcome to the Finance SaaS Platform project! This comprehensive README will guide you through the project setup, key features, technologies used, and how to contribute. This project aims to provide a robust financial management system with extensive functionalities, including income and expense tracking, transaction categorization, CSV import, bank account connectivity, and monetization options.
 
@@ -11,12 +11,12 @@ Welcome to the Finance SaaS Platform project! This comprehensive README will gui
 2. [Technologies Used](#technologies-used)
 3. [Project Setup](#project-setup)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Screenshots/Demo](#screenshotsdemo)
+
+5. [License](#license)
+6. [Screenshots/Demo](#screenshotsdemo)
 8. [Prerequisites](#prerequisites)
 9. [Folder Structure](#folder-structure)
-10. [Acknowledgments](#acknowledgments)
+
 
 ## Key Features
 - 📊 **Interactive Financial Dashboard**: Visualize financial data with various chart types.
